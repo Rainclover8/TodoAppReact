@@ -1,0 +1,41 @@
+*{
+    background-color: darkblue;
+}
+input{
+    margin-top: 10px;
+    border-radius: 30px;
+    background-color: white;
+    border: 0;
+    padding: 23px;
+}
+label{
+    color: #fff;
+    font-size: larger;
+}
+small{
+    color: #fff;
+
+}
+button{
+    border: 0;
+    padding: 22px;
+    background-color: #fff;
+    margin-top: 20px;
+    border-radius: 120px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.taskDetails{
+    margin: auto;
+    width: 300px;
+    border: 4px solid green;
+    margin-top: 20px;
+}
+.taskDetails h1{
+    color: white;
+
+}
+h4{
+    color: #fff;
+    font-size: larger;
+}
